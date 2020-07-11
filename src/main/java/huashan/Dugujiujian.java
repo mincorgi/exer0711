@@ -10,6 +10,7 @@ public class Dugujiujian {
         System.out.println("葵花宝典");
 
         System.out.println("============================");
+        System.out.println("+++++++");
         //红色：未追踪代码                  绿色：未追踪代码首次进入暂存区（已经 add）
         //黑色：已提交本地库(已经commit)    蓝色：已提交本地库后又发生了修改且未提交（commit后又修改了）
     }
